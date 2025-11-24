@@ -54,11 +54,7 @@ Esta versión muestra reportes más concretos y detallados:
 “Prefer Number.parseInt over parseInt”
 ➝ Sonar recomienda usar la versión moderna y más segura del método para evitar comportamientos inesperados.
 
-(Segundo reporte no especificado)
-➝ En tu archivo aparece el título del ítem, pero sin contenido.
-Igual pasa con los ítems del 3 al 12.
 
-(Se incluyen únicamente los hallazgos textuales presentes en el documento.)
 
 📈 3. Comparación General entre Proyectos
 
